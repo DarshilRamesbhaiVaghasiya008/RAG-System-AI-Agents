@@ -17,3 +17,8 @@ dist/
 .env
 .idea/
 .vscode/
+
+
+data/
+chroma_db/
+*.sqlite
